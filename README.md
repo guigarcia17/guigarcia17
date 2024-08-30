@@ -1,5 +1,3 @@
-
-
 ### Olá! Eu sou o Guilherme Garcia! 👋🏾
 Sou apaixonado por tecnologia e por encontrar soluções para desafios complexos. Tenho um forte compromisso com o aprendizado contínuo e vejo os erros como oportunidades valiosas para evoluir.
 #### Email: guilhermegoncalves274@gmail.com
@@ -25,5 +23,7 @@ Sou apaixonado por tecnologia e por encontrar soluções para desafios complexos
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <!-- <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> -->
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<!-- <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> -->
+<!-- <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> --></div>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=guigarcia17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
